@@ -1,0 +1,11 @@
+ID
+Severity
+Priority
+Title
+Preconditions
+STR
+Expected Result
+Actual Result
+Attachments
+Date
+Author
